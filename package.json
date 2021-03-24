@@ -95,6 +95,7 @@
     "react-helmet": "^6.1.0",
     "react-paginate": "^7.1.0",
     "react-radio-group": "^3.0.3",
+    "react-tagcloud": "^2.0.0",
     "react-timeago": "^5.2.0",
     "reactstrap": "^8.9.0"
   },
